@@ -123,8 +123,13 @@ title = "ServerlessDays Amsterdam"
     talk = "ory-segal"
 [[params.agenda]]
     time = "12:20 - 13:50"
+<<<<<<< HEAD
     type = "coffee lunch"
     title = "Lunch & Open Spaces"
+=======
+    type = "talk lunch signing"
+    talk = "lunch-signing"
+>>>>>>> trying to find out why this looks differently on prod
 [[params.agenda]]
     time = "13:50 - 14:20"
     type = "talk"
